@@ -1,9 +1,9 @@
 {
-  "name": "Hide Users Column",
+  "name": "Hide Users Column Avatars",
   "component": true,
   "license_url": "https://github.com/discourse/discourse-hide-users-column/blob/main/LICENSE",
   "about_url": "https://meta.discourse.org/t/hide-users-column/143506", 
-  "authors": "Dax",
+  "authors": "Dax & MarcRez33",
   "theme_version": null,
   "minimum_discourse_version": null, 
   "maximum_discourse_version": null
