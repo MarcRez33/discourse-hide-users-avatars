@@ -21,3 +21,21 @@
 .rtl .topic-list .right {
   margin-right: 0px;
 }
+
+// increase topic title width because avatars are gone
+.latest-topic-list-item .main-link {
+  max-width: 80%;
+}
+
+@if $also_hide_on_category_latest_homepage == 'true' {
+
+// hide avatars on topic list
+
+.topic-list td div.pull-left a { display: none; }
+.topic-list td div.right { margin-left: 0px; }
+
+// hide avatar on category/latest
+ .latest-topic-list-item .topic-poster {
+  display:none;
+  } 
+}

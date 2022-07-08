@@ -1,0 +1,4 @@
+also_hide_on_category_latest_homepage:
+  type: "bool"
+  default: false
+  description: 'Enable to hide avatars from category/latest style'
